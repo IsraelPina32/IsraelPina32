@@ -17,7 +17,7 @@
 <h3 align="center">My Tech Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" valign="middle" width="25" height="25" /></h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind,nodejs,nextjs,styledcomponents,jest,docker,mysql,mongodb,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind,nodejs,nextjs,styledcomponents,jest,docker,mysql,mongodb,figma&perline=5" />
   </a>
 </div>
 
