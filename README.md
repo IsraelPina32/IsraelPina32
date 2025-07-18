@@ -36,10 +36,3 @@
   <a href="https://discord.com/users/1071979425253560452" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://x.com/IsraelCP26105" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
   </div>
-  
- 
-  <div align="center">
-      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef233c&height=120&section=footer"/>
-</div>
- 
-
