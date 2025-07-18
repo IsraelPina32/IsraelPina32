@@ -1,16 +1,9 @@
 <div id="user-content-toc">
   <ul align="center">
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZzZ5aW9id2dqbzF2eGJkcm9ibXB6Z3Y1Y2NlbWR6end6ZmV2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-         <h1 style="display: inline-block">Welcome(a) ao profile the Israel Coimbra Pina</h1>
+<li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZzZ5aW9id2dqbzF2eGJkcm9ibXB6Z3Y1Y2NlbWR6end6ZmV2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2 style="display: inline-block">Welcome(a) ao profile the Israel Coimbra Pina</h2></li>
   </ul>
 </div>
-
-
 <div>
-  <a href="https://github.com/IsraelPina32">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelPina32&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPina32&layout=compact&langs_count=6&theme=graywhite"/>
-</div>
      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div  style="display: inline_block">
   
