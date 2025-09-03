@@ -13,6 +13,10 @@
   When I'm not coding, I'm probably exploring the world of <em>Red Redemption 2 </em>.
 </p>
 
+  <p align="center">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
 <div>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
