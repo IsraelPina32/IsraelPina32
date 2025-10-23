@@ -8,7 +8,7 @@
 <p align="center">
   I'm a Software Developer from Brazil 🇧🇷 with a love for crafting beautiful fullstack/web experiences and, most of all, a passion for untangling tricky problems. If there's a bug to squash or a puzzle to solve, you'll find me diving deep to find a solution!
   <br><br>
-  Fueled by grace and a whole lot of coffee. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" valign="middle" width="20" height="20" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" valign="middle" width="20" height="20" />
+  Fueled by grace and a whole lot of coffee
   <br><br>
   When I'm not coding, I'm probably exploring the world of <em>Red Redemption 2 </em>.
 </p>
