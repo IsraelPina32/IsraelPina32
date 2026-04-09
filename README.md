@@ -1,21 +1,32 @@
 <div id="user-content-toc">
   <ul align="center">
-   <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZzZ5aW9id2dqbzF2eGJkcm9ibXB6Z3Y1Y2NlbWR6end6ZmV2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2 style="display: inline-block">Welcome(a) profile the Israel Pina</h2></li>
+   <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZzZ5aW9id2dqbzF2eGJkcm9ibXB6Z3Y1Y2NlbWR6end6ZmV2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><h1> Hi, I'm Israel Pina | Software Engineer</h1></li>
   </ul>
 </div>
-<div  style="display: inline_block">
 
-<p align="center">
-  I'm a Software Developer from Brazil 🇧🇷 with a love for crafting beautiful fullstack/web experiences and, most of all, a passion for untangling tricky problems. If there's a bug to squash or a puzzle to solve, you'll find me diving deep to find a solution!
-  <br><br>
-  Fueled by grace and a whole lot of coffee
-  <br><br>
-  When I'm not coding, I'm probably exploring the world of <em>Red Redemption 2 </em>.
-</p>
+
+<div  style="display: inline_block">
 
   <p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
+<br>
+<br>
+<p align="center">
+ When the IDE is closed, I’m usually deep-diving into <strong>Red Dead Redemption 2</strong>. 
+    It’s not just a game; I’m fascinated by the <strong>Rockstar Games' complex ecosystem</strong>—from the 
+    emergent AI to the seamless integration of world-building systems.
+</p>
+
+  <blockquote>
+    "I believe that mastering complex virtual worlds helps me architect better real-world systems."
+  </blockquote>
+
+   <p>
+    <strong>Favorite Technical Detail:</strong> The dynamic NPC interaction system and environmental persistence.
+  </p>
+
 
 <div>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
