@@ -46,9 +46,9 @@
 
   ### 🛠️ Tech Stack & Architecture
   <p>
-    <strong>Backend:</strong> Node.js, AWS Cloud, SQL/NoSQL  <br>
+    <strong>Backend:</strong> Node.js, AWS Cloud, PostgreSQL / SQL & NoSQL Databases<br>
     <strong>Frontend:</strong> React, TypeScript, Vue.js, Next.js, Javascript, Tailwind CSS <br>
-    <strong>Principles:</strong> SOLID, Clean Architecture, Design Patterns
+    <strong>API & Data Management:</strong> dBeaver, Insomnia, Postman, RESTful API Design
   </p>
   
   <p>
