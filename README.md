@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-   <li><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZzZ5aW9id2dqbzF2eGJkcm9ibXB6Z3Y1Y2NlbWR6end6ZmV2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><h1> Hi, I'm Israel Pina | Software Engineer</h1></li>
+   <li><h1> Hi, I'm Israel Pina | Software Engineer</h1></li>
   </ul>
 </div>
 
