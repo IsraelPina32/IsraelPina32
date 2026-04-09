@@ -12,50 +12,47 @@
 </p>
 
 <br>
-<br>
 <p align="center">
  When the IDE is closed, I’m usually deep-diving into <strong>Red Dead Redemption 2</strong>. 
     It’s not just a game; I’m fascinated by the <strong>Rockstar Games' complex ecosystem</strong>—from the 
     emergent AI to the seamless integration of world-building systems.
 </p>
 
+ <p align="center">
+    <em>"Fueled by discipline, clean code, and deep work."</em>
+  </p>
+
+  ---
+
+  ### 🌍 Global Experience & English
+  <p>
+    Proficient in English with cultural and professional immersion in the <strong>United States</strong>. 
+    Experience living and navigating global tech hubs including <strong>NYC, Washington D.C., and Miami</strong>.
+  </p>
+
+  ---
+
+  ### 🎮 System Analysis & Leisure
+  <p>
+    When the IDE is closed, I’m usually deep-diving into <strong>Red Dead Redemption 2</strong>. 
+    I’m fascinated by <strong>Rockstar Games' complex ecosystem</strong>—from emergent AI to seamless world-building systems.
+  </p>
+
   <blockquote>
     "I believe that mastering complex virtual worlds helps me architect better real-world systems."
   </blockquote>
 
-   <p>
-    <strong>Favorite Technical Detail:</strong> The dynamic NPC interaction system and environmental persistence.
+  ---
+
+  ### 🛠️ Tech Stack & Architecture
+  <p>
+    <strong>Backend:</strong> Node.js, AWS Cloud, SQL/NoSQL  <br>
+    <strong>Frontend:</strong> React, TypeScript, Vue.js, Next.js, Javascript, Tailwind CSS <br>
+    <strong>Principles:</strong> SOLID, Clean Architecture, Design Patterns
+  </p>
+  
+  <p>
+    👇 <strong>Check out my featured projects below to see my code in action.</strong>
   </p>
 
-
-<div>
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Currently Focused On
-
-<ul>
-    <li> Actively studying for the **AWS Discorvery Day | Ka Solution ** certification.</li>
-    <li> Building fullstack adn web system with **React and Typescript**.</li>
-    <li> Diving deeper into **Next.js and Vue.js** for more robust code.</li>
-</ul>
-
-<br>
-  
-<h3 align="center">Languages & technologies<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" valign="middle" width="25" height="25" /></h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwind,nodejs,nextjs,styledcomponents,jest,docker,mysql,mongodb,figma&perline=5" />
-  </a>
-<div align="center">
-  <br>
-  <br>
-  <h2 align="center">Connect with me ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /></h2>
- 
-<div align="center"> 
- <a href="https://www.instagram.com/israel_dev26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/israel-coimbra-de-pina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>                                                                 
-  <a href = "mailto:israelcoimbra4142@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/1071979425253560452" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://x.com/IsraelCP26105" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
   </div>
